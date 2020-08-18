@@ -5,7 +5,7 @@ import { initNotification } from './services/firebaseService';
 function App() {
   return (
     <div className="App">
-      <h1>HELLO</h1>
+      <h1>HELLO WORLD</h1>
       <button onClick={ initNotification }> Configure Notifications </button>
     </div>
   );
